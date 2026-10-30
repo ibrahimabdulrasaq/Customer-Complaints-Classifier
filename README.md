@@ -117,6 +117,8 @@ Billing
 
 **Result:** Successful.
 
+<img width="1315" height="530" alt="Screenshot 2026-10-30 201109" src="https://github.com/user-attachments/assets/ffa52286-fa50-4214-a73f-19dd328f16bb" />
+
 ### Test Case 2: Multiple Complaint Categories
 
 **Customer submission:**
@@ -132,6 +134,8 @@ Billing, Sales
 Billing, Sales
 
 **Result:** Successful.
+
+<img width="1318" height="530" alt="Screenshot 2026-10-30 201230" src="https://github.com/user-attachments/assets/dc3a18ea-1d6b-4ccb-9977-8a15f8805415" />
 
 The second test confirmed that the AI model could identify multiple complaint categories from a single customer submission.
 
